@@ -1,14 +1,19 @@
 # GPQuery-Sandbox
 
-Bower dependencies listed in `bower.json` and installed in `components/`:
-```
-"polymer": "Polymer/polymer#0.5",
-"core-icons": "Polymer/core-icons#~0.5.5",
-"paper-elements": "Polymer/paper-elements#~0.5.5",
-"core-ajax": "Polymer/core-ajax#0.5",
-"d3": "~3.3.13",
-"nvd3": "~1.7.1"
-```
+> Experimental development repository for GPQuery\Dashboard using [Polymer](//polymer-project.org) Custom Elements with [D3.js](//d3js.org) and [nvD3](//nvd3.org).
+
+---
+
+## DEPENDENCIES
+
+**Bower**:
+ - Polymer
+     - Core-Icons
+     - Core-Ajax
+     - Paper-Elements
+ - D3.js
+ - nvD3
+
 
 ## FILE STRUCTURE
 
@@ -28,6 +33,11 @@ Bower dependencies listed in `bower.json` and installed in `components/`:
 │   │   └── ...
 │   ├── ...
 │   ├── ...
+│   └── ...
+├── api/
+│   ├── data/                       --> Data JSON Files
+│   │   ├── data.json
+│   │   └── ...
 │   └── ...
 ├── .bowerrc
 ├── .gitignore
