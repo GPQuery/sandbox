@@ -1,0 +1,11 @@
+{
+  "name": "gpquery-sandbox",
+  "version": "0.0.0",
+  "description": "Experimental development for GPQuery components.",
+  "scripts": {},
+  "author": "Joho (Jonathan Ho)",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.4.1"
+  }
+}
