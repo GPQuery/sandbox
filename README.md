@@ -1,6 +1,6 @@
 # GPQuery-Sandbox
 
-> Experimental development repository for GPQuery\Dashboard using [Polymer](//polymer-project.org) Custom Elements with [D3.js](//d3js.org) and [nvD3](//nvd3.org).
+> Experimental development repository for GPQuery\Dashboard using [AngularJS](//angularjs.org) and [Polymer](//polymer-project.org) Custom Elements with [D3.js](//d3js.org) and [nvD3](//nvd3.org).
 
 ---
 
