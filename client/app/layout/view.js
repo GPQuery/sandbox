@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('gpqApp.view')
+        .module('gpqApp')
         .controller('View', View);
 
     View.$inject = ['$log', '$q'];

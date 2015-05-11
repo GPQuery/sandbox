@@ -11,8 +11,8 @@
 
 # Dependencies #
 ################
-app/bower_components/
-node_modules/
+bower_components
+node_modules
 
 # Packages #
 ############

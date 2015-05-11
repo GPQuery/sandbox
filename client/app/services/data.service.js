@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('gpqApp.core')
+        .module('gpqApp')
         .factory('dataservice', dataservice);
 
     dataservice.$inject = ['$http', '$log', '$q'];
